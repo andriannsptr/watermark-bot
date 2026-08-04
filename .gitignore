@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Uploads & Temp files
+uploads/*
+!uploads/.gitkeep
+
+# Output photos
+test-photos/watermarked/
+
+# OS & Environment
+.DS_Store
+Thumbs.db
+*.log
+.env

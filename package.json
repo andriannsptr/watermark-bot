@@ -1,0 +1,19 @@
+{
+  "name": "watermark-bot-dashboard",
+  "version": "1.0.0",
+  "description": "Bot Watermark Foto dengan Web Dashboard, Live Preview, Teks & PNG Watermark, dan Batch Processing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["watermark", "photo", "bot", "dashboard", "sharp", "batch-processing"],
+  "author": "Antigravity",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.33.5"
+  }
+}
