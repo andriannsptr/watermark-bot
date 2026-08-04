@@ -74,4 +74,4 @@ Project ini dilisensikan di bawah **ISC License**.
 
 ---
 
-Dibuat dengan ❤️ oleh **[andriannsptr](https://github.com/andriannsptr)**
+Dibuat dengan ❤️ oleh **[yn.](https://github.com/andriannsptr)**
