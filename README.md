@@ -1,4 +1,4 @@
-# 🖼️ Watermark Studio & Bot !
+# 🖼️ Watermark Studio & Bot 
 
 **Watermark Studio & Bot** adalah aplikasi web desktop berbasis Node.js untuk menambahkan watermark pada foto secara batch dengan **Live Interactive Preview**, **Folder Scanner**, **Watermark Teks & Logo PNG**, serta pemrosesan gambar C++ berkecepatan tinggi menggunakan `sharp`.
 
